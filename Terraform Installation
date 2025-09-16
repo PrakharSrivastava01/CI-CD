@@ -34,7 +34,7 @@ terraform --version (Terraform confirmation of installation completed)
 
 
  Go to IAM Setting in AWS > Security Credentials > Create a Secret Access key > Download.
-      
+         
 
    
  Go to the AWS CLI through WSL Ubuntu and 
